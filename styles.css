@@ -98,11 +98,11 @@ body {
 
 .project-item-link {
     font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
+    font-weight: 600;
+    font-size: 20px;
     line-height: 24px;
     text-decoration: none;
-    color: #595959;
+    color: black;
 }
 /*Education*/
 .education-period {
@@ -115,17 +115,17 @@ body {
 
 .education-speciality {
     font-style: normal;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 24px;
-    color: #595959;
+    color: black;
     padding: 0 20px;
 }
 
 .education-profession {
     font-style: normal;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 24px;
-    color: #595959;
+    color: black;
     padding: 0 20px;
 }
 
